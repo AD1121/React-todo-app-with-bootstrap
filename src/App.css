@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg-dark {
+  height: 100vh;
+  color: #fff;
+  padding-top: 100px;
+  text-align: center;
+}
+
+input {
+ border-style: none;
+ border-bottom: 1px solid #e0e2e5; 
+}
+
+ul {
+  margin-top: 40px;
+  list-style: none;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+li {
+  margin-bottom: 15px;
+  border-bottom: solid 1px #cccdce;
+  
+}
+
+span {
+  float: right;
+  cursor: pointer;
+} 
+
+button {
+  margin-left: 20px;
+}
+
+h3 {
+  border-bottom: solid #000 1px;
+  padding-bottom: 5px;
+  margin-bottom: 40px;
+}
